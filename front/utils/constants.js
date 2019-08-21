@@ -1,0 +1,7 @@
+
+const ADD_NOTE = "ADD_NOTE"
+const SET_NOTE = "SET_NOTE"
+const REM_NOTE = "REM_NOTE"
+const EDIT_NOTE = "EDIT_NOTE"
+
+export { ADD_NOTE, SET_NOTE, REM_NOTE, INS_NOTE, EDIT_NOTE }
